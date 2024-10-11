@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\bin\Debug\net6.0\ScreenSouns-API.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\bin\Debug\net6.0\ScreenSouns-API.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\bin\Debug\net6.0\ScreenSouns-API.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\bin\Debug\net6.0\ScreenSouns-API.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\bin\Debug\net6.0\ScreenSouns-API.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\obj\Debug\net6.0\ScreenSouns-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\obj\Debug\net6.0\ScreenSouns-API.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\obj\Debug\net6.0\ScreenSouns-API.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\obj\Debug\net6.0\ScreenSouns-API.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\obj\Debug\net6.0\ScreenSouns-API.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\obj\Debug\net6.0\refint\ScreenSouns-API.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\obj\Debug\net6.0\ScreenSouns-API.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\obj\Debug\net6.0\ScreenSouns-API.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ScreenSouns-API\obj\Debug\net6.0\ref\ScreenSouns-API.dll
